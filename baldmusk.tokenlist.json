@@ -1,0 +1,14 @@
+{
+  "name": "Bald Musk Token List",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "GmXcPGLVAvVXQG8hogRxvRAfkb4gQfYu3BAVHnzpump",
+      "symbol": "BALDMUSK",
+      "name": "Bald Musk",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/9RiR8ga.png",
+      "tags": ["community", "memecoin"]
+    }
+  ]
+}
